@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waterlovemelon
 - 👀 I’m interested in C/C++, Qt, Java, Linux
-- 🌱 I’m currently learning Qt and Linux
+- 🌱 I’m currently learning Qt,Linux,Electron
 - 💞️ I’m looking to collaborate on deepin os
 - 📫 How to reach me yj.watermelon@gmail.com
 
